@@ -2,7 +2,7 @@ class Power extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author: H. Jessica
   */
   
   public void run() {

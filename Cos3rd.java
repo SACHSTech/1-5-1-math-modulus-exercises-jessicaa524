@@ -2,7 +2,7 @@ class Cos3rd extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author: H. Jessica
   */
   
   public void run() {

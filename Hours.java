@@ -2,7 +2,7 @@ class Hours extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author: H. Jessica
   */
   
   public void run() {

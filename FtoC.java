@@ -2,7 +2,7 @@ class FtoC extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author: H. Jessica
   */
   
   public void run() {
